@@ -53,4 +53,6 @@ Zhicong Lu, Sarah Kushner, Leo Sacht and Eitan Grinspun for feedback on drafts
 of this paper.  We thank David Levin for illuminating discussions and John
 Hancock for infrastructural support.
 
+Thank you to Rahul Arora for presenting this work at SCF 2019.
+
 <!-- `multimarkdown --process-html -o index.{html,md}` -->
